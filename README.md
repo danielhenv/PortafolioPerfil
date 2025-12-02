@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" />
 
 # 👋 Hola, soy **Daniel Henríquez**
 ### Backend Developer · Python · Django · Bases de Datos
